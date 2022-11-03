@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @caleb-PCS
 - 👀 I’m interested in physics, math, and starting a career in CS.
-- 🌱 I’m currently learning python, java, and excel.
+- Technologies I efficient in are Python, Java, MySQL, Microsoft Office application.
+- 🌱 I’m currently learning  Java, React, GoLang. 
 - 💞️ I’m looking to collaborate on beginner to intermediate level projects.
 - 📫 How to reach me caleb.zavala05@gmail.com 
 
